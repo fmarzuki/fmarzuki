@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fmarzuki
-- 👀 I’m interested in Programming, Database, Linux, DevOps
+- 👀 I’m interested in Programming, Database, Linux, DevSecOps
 
 <!---
 fmarzuki/fmarzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
